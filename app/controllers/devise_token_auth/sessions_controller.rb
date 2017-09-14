@@ -39,6 +39,9 @@ module DeviseTokenAuth
         @client_id = SecureRandom.urlsafe_base64(nil, false)
         @token     = SecureRandom.urlsafe_base64(nil, false)
 
+        # Next line is necessary for the exceptional cases in which the tokens are stored as strings in the database.
+        @resource.tokens = JSON.parse(@resource.tokens) if @resource.tokens.is_a? String
+
         @resource.tokens[@client_id] = {
           token: BCrypt::Password.create(@token),
           expiry: (Time.now + DeviseTokenAuth.token_lifespan).to_i
