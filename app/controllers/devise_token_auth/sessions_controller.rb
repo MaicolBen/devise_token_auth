@@ -135,12 +135,6 @@ module DeviseTokenAuth
       }, status: 404
     end
 
-    protected
-
-    def provider
-      'email'
-    end
-
     private
 
     def resource_params
