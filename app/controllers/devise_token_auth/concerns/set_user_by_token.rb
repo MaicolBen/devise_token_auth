@@ -1,5 +1,6 @@
 module DeviseTokenAuth::Concerns::SetUserByToken
   extend ActiveSupport::Concern
+  include DeviseTokenAuth::Concerns::ResourceFinder
   include DeviseTokenAuth::Controllers::Helpers
 
   included do
@@ -75,7 +76,6 @@ module DeviseTokenAuth::Concerns::SetUserByToken
     end
   end
 
-
   def update_auth_header
     # cannot save object if model has invalid params
     return unless @resource && @resource.valid? && @client_id
@@ -113,30 +113,27 @@ module DeviseTokenAuth::Concerns::SetUserByToken
         if @is_batch_request
           auth_header = @resource.extend_batch_buffer(@token, @client_id)
 
+          # Do not return token for batch requests to avoid invalidated
+          # tokens returned to the client in case of race conditions.
+          # Use a blank string for the header to still be present and
+          # being passed in a XHR response in case of
+          # 304 Not Modified responses.
+          auth_header[DeviseTokenAuth.headers_names[:"access-token"]] = ' '
+          auth_header[DeviseTokenAuth.headers_names[:"expiry"]] = ' '
+
         # update Authorization response header with new token
         else
           auth_header = @resource.create_new_auth_token(@client_id)
-
-          # update the response header
-          response.headers.merge!(auth_header)
         end
+
+        # update the response header
+        response.headers.merge!(auth_header)
 
       end # end lock
 
     end
 
   end
-
-  def resource_class(m=nil)
-    if m
-      mapping = Devise.mappings[m]
-    else
-      mapping = Devise.mappings[resource_name] || Devise.mappings.values.first
-    end
-
-    mapping.to
-  end
-
 
   private
 

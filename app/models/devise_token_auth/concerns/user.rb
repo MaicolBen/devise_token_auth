@@ -88,6 +88,21 @@ module DeviseTokenAuth::Concerns::User
 
       token
     end
+
+    # override devise method to include additional info as opts hash
+    def send_unlock_instructions(opts=nil)
+      raw, enc = Devise.token_generator.generate(self.class, :unlock_token)
+      self.unlock_token = enc
+      save(validate: false)
+
+      opts ||= {}
+
+      # fall back to "default" config name
+      opts[:client_config] ||= "default"
+
+      send_devise_notification(:unlock_instructions, raw, opts)
+      raw
+    end
   end
 
   module ClassMethods
@@ -168,7 +183,7 @@ module DeviseTokenAuth::Concerns::User
     last_token ||= nil
     token        = SecureRandom.urlsafe_base64(nil, false)
     token_hash   = ::BCrypt::Password.create(token)
-    expiry       = (Time.now + DeviseTokenAuth.token_lifespan).to_i
+    expiry       = (Time.now + token_lifespan).to_i
 
     if self.tokens[client_id] && self.tokens[client_id]['token']
       last_token = self.tokens[client_id]['token']
@@ -234,6 +249,9 @@ module DeviseTokenAuth::Concerns::User
     ])
   end
 
+  def token_lifespan
+    DeviseTokenAuth.token_lifespan
+  end
 
   protected
 
