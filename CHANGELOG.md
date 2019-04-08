@@ -1,5 +1,258 @@
 # Change Log
 
+## [v0.1.43](https://github.com/MaicolBen/devise_token_auth/tree/HEAD)
+
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.39...HEAD)
+
+**Merged pull requests:**
+
+- Change links to https protocol [\#1](https://github.com/MaicolBen/devise_token_auth/pull/1) ([dks17](https://github.com/dks17))
+
+## [v0.1.39](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.39) (2016-08-16)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.38...v0.1.39)
+
+## [v0.1.38](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.38) (2016-07-11)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.37...v0.1.38)
+
+## [v0.1.37](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.37) (2016-01-26)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.37.beta4...v0.1.37)
+
+## [v0.1.37.beta4](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.37.beta4) (2015-12-10)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.37.beta3...v0.1.37.beta4)
+
+## [v0.1.37.beta3](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.37.beta3) (2015-10-27)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.37.beta2...v0.1.37.beta3)
+
+## [v0.1.37.beta2](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.37.beta2) (2015-10-25)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.37.beta1...v0.1.37.beta2)
+
+## [v0.1.37.beta1](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.37.beta1) (2015-10-25)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.36...v0.1.37.beta1)
+
+## [v0.1.36](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.36) (2015-10-13)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.35...v0.1.36)
+
+## [v0.1.35](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.35) (2015-10-13)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.34...v0.1.35)
+
+## [v0.1.34](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.34) (2015-08-10)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.33...v0.1.34)
+
+## [v0.1.33](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.33) (2015-08-09)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.32...v0.1.33)
+
+## [v0.1.32](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.32) (2015-07-29)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.32.beta9...v0.1.32)
+
+## [v0.1.32.beta9](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.32.beta9) (2015-03-24)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.32.beta8...v0.1.32.beta9)
+
+## [v0.1.32.beta8](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.32.beta8) (2015-03-13)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.32.beta7...v0.1.32.beta8)
+
+## [v0.1.32.beta7](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.32.beta7) (2015-03-12)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.32.beta6...v0.1.32.beta7)
+
+## [v0.1.32.beta6](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.32.beta6) (2015-03-03)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.32.beta5...v0.1.32.beta6)
+
+## [v0.1.32.beta5](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.32.beta5) (2015-02-09)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.32.beta4...v0.1.32.beta5)
+
+## [v0.1.32.beta4](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.32.beta4) (2015-02-09)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.32.beta3...v0.1.32.beta4)
+
+## [v0.1.32.beta3](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.32.beta3) (2015-02-09)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.32.beta2...v0.1.32.beta3)
+
+## [v0.1.32.beta2](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.32.beta2) (2015-02-09)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.32.beta1...v0.1.32.beta2)
+
+## [v0.1.32.beta1](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.32.beta1) (2015-02-03)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.31...v0.1.32.beta1)
+
+## [v0.1.31](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.31) (2015-01-28)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.31.beta10...v0.1.31)
+
+## [v0.1.31.beta10](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.31.beta10) (2015-01-28)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.31.beta9...v0.1.31.beta10)
+
+## [v0.1.31.beta9](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.31.beta9) (2015-01-09)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.31.beta8...v0.1.31.beta9)
+
+## [v0.1.31.beta8](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.31.beta8) (2015-01-07)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.31.beta7...v0.1.31.beta8)
+
+## [v0.1.31.beta7](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.31.beta7) (2015-01-07)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.31.beta6...v0.1.31.beta7)
+
+## [v0.1.31.beta6](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.31.beta6) (2015-01-07)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.31.beta5...v0.1.31.beta6)
+
+## [v0.1.31.beta5](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.31.beta5) (2015-01-05)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.31.beta4...v0.1.31.beta5)
+
+## [v0.1.31.beta4](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.31.beta4) (2015-01-05)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.31.beta3...v0.1.31.beta4)
+
+## [v0.1.31.beta3](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.31.beta3) (2015-01-05)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.31.beta2...v0.1.31.beta3)
+
+## [v0.1.31.beta2](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.31.beta2) (2015-01-05)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.31.beta1...v0.1.31.beta2)
+
+## [v0.1.31.beta1](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.31.beta1) (2014-12-22)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.30...v0.1.31.beta1)
+
+## [v0.1.30](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.30) (2014-11-18)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.30.beta6...v0.1.30)
+
+## [v0.1.30.beta6](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.30.beta6) (2014-11-15)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.30.beta5...v0.1.30.beta6)
+
+## [v0.1.30.beta5](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.30.beta5) (2014-11-11)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.30.beta4...v0.1.30.beta5)
+
+## [v0.1.30.beta4](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.30.beta4) (2014-11-11)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.30.beta3...v0.1.30.beta4)
+
+## [v0.1.30.beta3](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.30.beta3) (2014-10-28)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.30.beta2...v0.1.30.beta3)
+
+## [v0.1.30.beta2](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.30.beta2) (2014-10-28)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.29...v0.1.30.beta2)
+
+## [v0.1.29](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.29) (2014-10-09)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.29.beta7...v0.1.29)
+
+## [v0.1.29.beta7](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.29.beta7) (2014-10-02)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.29.beta6...v0.1.29.beta7)
+
+## [v0.1.29.beta6](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.29.beta6) (2014-10-02)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.29.beta5...v0.1.29.beta6)
+
+## [v0.1.29.beta5](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.29.beta5) (2014-09-30)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.29.beta4...v0.1.29.beta5)
+
+## [v0.1.29.beta4](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.29.beta4) (2014-09-30)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.29.beta3...v0.1.29.beta4)
+
+## [v0.1.29.beta3](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.29.beta3) (2014-09-30)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.29.beta2...v0.1.29.beta3)
+
+## [v0.1.29.beta2](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.29.beta2) (2014-09-30)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.29.beta1...v0.1.29.beta2)
+
+## [v0.1.29.beta1](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.29.beta1) (2014-09-30)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.28...v0.1.29.beta1)
+
+## [v0.1.28](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.28) (2014-09-24)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.28.beta8...v0.1.28)
+
+## [v0.1.28.beta8](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.28.beta8) (2014-09-22)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.28.beta7...v0.1.28.beta8)
+
+## [v0.1.28.beta7](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.28.beta7) (2014-09-22)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.28.beta6...v0.1.28.beta7)
+
+## [v0.1.28.beta6](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.28.beta6) (2014-09-16)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.28.beta5...v0.1.28.beta6)
+
+## [v0.1.28.beta5](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.28.beta5) (2014-09-14)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.28.beta3...v0.1.28.beta5)
+
+## [v0.1.28.beta3](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.28.beta3) (2014-09-10)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.28.beta2...v0.1.28.beta3)
+
+## [v0.1.28.beta2](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.28.beta2) (2014-09-10)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.27...v0.1.28.beta2)
+
+## [v0.1.27](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.27) (2014-09-02)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.27.beta3...v0.1.27)
+
+## [v0.1.27.beta3](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.27.beta3) (2014-08-29)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.26...v0.1.27.beta3)
+
+## [v0.1.26](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.26) (2014-08-23)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.26.beta3...v0.1.26)
+
+## [v0.1.26.beta3](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.26.beta3) (2014-08-22)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.26.beta1...v0.1.26.beta3)
+
+## [v0.1.26.beta1](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.26.beta1) (2014-08-21)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.25...v0.1.26.beta1)
+
+## [v0.1.25](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.25) (2014-08-11)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.24...v0.1.25)
+
+## [v0.1.24](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.24) (2014-07-24)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.23...v0.1.24)
+
+## [v0.1.23](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.23) (2014-07-21)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.22...v0.1.23)
+
+## [v0.1.22](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.22) (2014-07-17)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.20...v0.1.22)
+
+## [v0.1.20](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.20) (2014-07-15)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.17...v0.1.20)
+
+## [v0.1.17](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.17) (2014-07-13)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.16...v0.1.17)
+
+## [v0.1.16](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.16) (2014-07-08)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.15...v0.1.16)
+
+## [v0.1.15](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.15) (2014-07-08)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.14...v0.1.15)
+
+## [v0.1.14](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.14) (2014-07-07)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.13...v0.1.14)
+
+## [v0.1.13](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.13) (2014-07-06)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.12...v0.1.13)
+
+## [v0.1.12](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.12) (2014-07-06)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.11...v0.1.12)
+
+## [v0.1.11](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.11) (2014-07-06)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.10...v0.1.11)
+
+## [v0.1.10](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.10) (2014-07-06)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.9...v0.1.10)
+
+## [v0.1.9](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.9) (2014-07-06)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.8...v0.1.9)
+
+## [v0.1.8](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.8) (2014-07-05)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.7...v0.1.8)
+
+## [v0.1.7](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.7) (2014-07-05)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.6...v0.1.7)
+
+## [v0.1.6](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.6) (2014-07-01)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.5...v0.1.6)
+
+## [v0.1.5](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.5) (2014-07-01)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.4...v0.1.5)
+
+## [v0.1.4](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.4) (2014-06-30)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.3...v0.1.4)
+
+## [v0.1.3](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.3) (2014-06-30)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.2...v0.1.3)
+
+## [v0.1.2](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.2) (2014-06-30)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.1...v0.1.2)
+
+## [v0.1.1](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.1) (2014-06-29)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.0...v0.1.1)
+
+## [v0.1.0](https://github.com/MaicolBen/devise_token_auth/tree/v0.1.0) (2014-06-29)
+[Full Changelog](https://github.com/MaicolBen/devise_token_auth/compare/v0.1.42...v0.1.0)
+
+# Change Log
+
 ## [v0.1.43](https://github.com/lynndylanhurley/devise_token_auth/tree/HEAD)
 
 [Full Changelog](https://github.com/lynndylanhurley/devise_token_auth/compare/v0.1.0...HEAD)
@@ -2203,6 +2456,8 @@
 - README and travis config tweaks [\#7](https://github.com/lynndylanhurley/devise_token_auth/pull/7) ([guilhermesimoes](https://github.com/guilhermesimoes))
 
 
+
+\* *This Change Log was automatically generated by [github_changelog_generator](https://github.com/skywinder/Github-Changelog-Generator)*
 
 \* *This Change Log was automatically generated by [github_changelog_generator](https://github.com/skywinder/Github-Changelog-Generator)*
 
